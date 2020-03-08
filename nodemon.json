@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_USER": "demo",
+        "MONGO_PWD": "demo"
+    }
+}
