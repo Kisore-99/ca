@@ -1,1 +1,1 @@
-#Certified Authority registration
+Certified Authority registration
